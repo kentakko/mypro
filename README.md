@@ -1,24 +1,55 @@
-# README
+# アプリケーション名
+mypro（my profileの略）
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+# アプリケーション概要
+子供たちの間で流行っていた紙のプロフィール帳のアプリ版。学校の授業で使用する学習端末に導入し、同じ小学校のクラスメイトたちが互いの自己紹介を行うために利用することを想定している。
 
-* Ruby version
 
-* System dependencies
+# URL
+未実装
 
-* Configuration
 
-* Database creation
+# テスト用アカウント
+ログイン機能等を実装した場合は、ログインに必要な情報を記載。またBasic認証等を設けている場合は、そのID/Passも記載すること。
 
-* Database initialization
 
-* How to run the test suite
+# 利用方法
+## プロフィール投稿
+- トップページ（一覧ページ）のヘッダーからユーザー新規登録を行う
+- プロフィール投稿ボタンから自己紹介
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+# アプリケーションを作成した背景
 
-* ...
+
+# 洗い出した要件
+[Google ドライブのファイルへのリンク](https://docs.google.com/spreadsheets/d/1W43kmBQsHeEBkYiZC12qurnX_oJC3hxqWF07wUbtB7I/edit?usp=sharing)
+
+
+# 実装した機能についての画像やGIFおよびその説明※
+実装した機能について、それぞれどのような特徴があるのかを列挙する形で記載。画像はGyazoで、GIFはGyazoGIFで撮影すること。
+
+
+# 実装予定の機能
+洗い出した要件の中から、今後実装予定の機能がある場合は、その機能を記載。
+
+
+# データベース設計
+作成中
+
+
+# 画面遷移図
+作成中
+
+
+# 開発環境
+使用した言語・サービスを記載。
+
+
+# ローカルでの動作方法※
+git cloneしてから、ローカルで動作をさせるまでに必要なコマンドを記載。
+
+
+# 工夫したポイント※
+制作背景・使用技術・開発方法・タスク管理など、企業へＰＲしたい事柄を記載。
