@@ -36,7 +36,7 @@ mypro（my profileの略）
 未実装
 
 ## データベース設計
-作成中
+![スクリーンショット 2023-11-03 004924](https://github.com/kentakko/mypro/assets/137671968/a1396a72-658f-4a8f-9e00-05b5f8f8d3eb)
 
 
 ## 画面遷移図
